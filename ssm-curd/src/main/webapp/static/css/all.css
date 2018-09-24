@@ -1,0 +1,44 @@
+#first{
+	width: 100%;
+	
+	height: 145px;
+	
+}
+#topfirst{
+	height: 80px;
+}
+
+#topfirstleft{
+	float: left;
+	line-height: 80px;
+}
+#topfirstright{
+	float: right;
+	margin-top: 15px;
+	line-height: 80px;
+	
+}
+#bottonfirst{
+	height: 40px;
+}
+#bottonfirst ul li{
+	width: 100px;
+	margin: 0 20px;
+}
+#middle{
+	width: 100%;
+	height: 1000px;
+	
+}
+#middleleft{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin: 0 0;
+}
+#middleright{
+	width: 78%;
+	float:right;
+	
+	height: 100%;
+}
